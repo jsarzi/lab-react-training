@@ -1,0 +1,13 @@
+.random{
+    width:80%;
+    border: solid 3px black;
+    height: 60%;
+    text-align: start;
+    margin-bottom: 3%;
+    margin-left:4%;
+}
+
+.random p {
+    padding-left: 1%;
+    font-weight: 300;
+}

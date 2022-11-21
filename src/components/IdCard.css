@@ -1,0 +1,28 @@
+.Card{
+    display: flex;
+    flex-direction: row;
+    border: solid 1px black;
+    padding:2px;
+    margin:12px;
+  
+    
+}
+.Card img {
+    width: 20%;
+    height: 20%;
+}
+
+.text span{
+    font-weight: 700;
+}
+
+.text{
+
+    height: 160px;
+    text-align:start;
+    align-items:flex-start;
+    line-height: 1px;
+    padding-left: 2px;
+
+    
+}
